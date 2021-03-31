@@ -40,5 +40,4 @@ public class BasicController {
       }
       return getResult(dividend.divide(divisor, RoundingMode.HALF_EVEN));
    }
-
 }
